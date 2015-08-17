@@ -1,0 +1,17 @@
+[{
+    "id": "tools",
+    "children": [{
+    	"id": "timer",
+    	"caption": "Timer",
+	        "children": [{
+			    "caption": "Start",
+			    "command": "start_timer"
+			}, {
+			    "caption": "(un)Pause",
+			    "command": "pause_timer"
+			}, {
+			    "caption": "Stop",
+			    "command": "stop_timer"
+			}]
+	}]
+}]
